@@ -134,7 +134,7 @@ _NCrunch*
 
 
 
-.db
-.db-wal
-.db-shm
+*.db
+*.db-wal
+*.db-shm
 .vs/
